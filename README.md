@@ -1,2 +1,3 @@
 # UFES_POO
-Repositório da aula de Programação Orientada a Objetos 
+
+Repositório da disciplina de Programação Orientada a Objetos 
